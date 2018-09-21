@@ -35,8 +35,8 @@ public class MaxMinArr {
 		arrayView.setEditable(false);
 		arrayView.setWrapStyleWord(true);
 		
-		numGenButton.setBounds(50,100,95,30);  
-		numGenButton.setLocation(200,150);
+		numGenButton.setBounds(50,100,150,30);  
+		numGenButton.setLocation(180,100);
 		
 		numGenButton.addActionListener(new ActionListener() {
 
